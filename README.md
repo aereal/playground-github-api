@@ -1,5 +1,7 @@
 # playground-github-api
 
-## 01. Feature
+## Release Steps
 
-## 02. Payload
+- [ ] Check at Staging
+- [ ] Run DB migration
+- [ ] Wait 大安
