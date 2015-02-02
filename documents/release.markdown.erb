@@ -1,0 +1,13 @@
+# Release <%= Time.now %>
+
+## Pull Requests
+
+<% pull_requests.each do |pr| %>
+<%= pr.to_checklist_item %>
+<% end %>
+
+## Phases
+
+- [ ] Wait 大安 :pray:
+- [ ] Run DB migration :dash:
+- [ ] Check the staging :gun:

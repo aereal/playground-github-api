@@ -1,5 +1,9 @@
 # playground-github-api
 
-## 01. Feature
+:ok_woman: :expressionless:
 
-## 02. Payload
+## Release Steps
+
+- [ ] Check at Staging
+- [ ] Run DB migration
+- [ ] Wait 大安
