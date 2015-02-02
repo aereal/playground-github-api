@@ -1,5 +1,7 @@
 # playground-github-api
 
+:ok_woman:
+
 ## Release Steps
 
 - [ ] Check at Staging
