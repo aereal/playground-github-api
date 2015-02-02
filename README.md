@@ -1,6 +1,6 @@
 # playground-github-api
 
-:ok_woman:
+:ok_woman: :expressionless:
 
 ## Release Steps
 
