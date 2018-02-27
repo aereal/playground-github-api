@@ -1,0 +1,9 @@
+stages:
+  - qa
+  - production
+notification:
+  events:
+    on_check:
+      - ch_check
+    on_complete:
+      - ch_complete
